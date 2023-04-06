@@ -13,7 +13,7 @@
     };
 </script>
 <template>
-    <ul class="list-group">
+    <ul class="list-group" style="color: black;">
         <li
             class="list-group-item"
             v-for="(contact, index) in contacts"
